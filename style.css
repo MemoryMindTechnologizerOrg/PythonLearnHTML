@@ -1,0 +1,187 @@
+/*
+	Comment
+*/
+
+#BODY1 {
+	background-color: black;
+
+}
+
+#DIV1 {
+	border-top: 21px solid lightblue;
+	border-left: 21px solid slateblue;
+	border-left-style: double;
+	border-bottom: 4px solid darkcyan;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+#IMG1 {
+	align-items: center;
+	border-bottom: ghostwhite, 11px, solid;
+}
+
+#H1A {
+	text-underline-position: auto;
+	text-align: center;
+	font-size: 59px;
+	font-family: Cambria;
+	border-bottom: 8px;
+	margin-left: 35px;
+	margin-right: 35px;
+
+}
+
+#DIV2 {
+	border-bottom: 55px solid seagreen;
+	margin-left: 65px;
+	margin-right: 65px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#p1 {
+	text-align: right;
+	font-size: 13px;
+	color: yellow;
+}
+
+#DIV3 {
+	border-top: 8px solid silver;
+	border-bottom: 8px solid gainsboro;
+	margin-right: 30px;
+	margin-left: 66px;
+}
+
+#precode1 {
+	margin-right: 72px;
+	text-align: left;
+	margin-top: 1px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#code1 {
+	margin-right: 72px;
+	text-align: left;
+	margin-top: 1px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#H1C {
+	text-align: center;
+	font-size: 42px;
+	margin-top: 1px;
+	color: aqua;
+}
+
+#TriFlyH1 {
+	margin-left: 59px;
+	text-align: center;
+	color: royalblue;
+	font-size: 39px;
+	margin-top: 0px;
+	margin-bottom: 1px;
+}
+
+#TriFlyH2 {
+	text-align: center;
+	font-size: 41px;
+	margin-top: 1px;
+	margin-bottom: 0px;
+}
+
+#p24 {
+	margin-left: 18px;
+	margin-top: 1px;
+	margin-bottom: 0px;
+}
+
+#p25 {
+	margin-top: 1px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+#H1Face {
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 1px;
+}
+
+#H1Book {
+	text-align: center;
+	margin-top: 1px;
+	margin-bottom: 0px;
+}
+
+#H1J {
+	text-align: center;
+	font-size: 82px;
+	margin-bottom: 1px;
+}
+
+#H1N {
+	text-align: center;
+	font-size: 72px;
+	margin-top: 2px;
+}
+
+#PIMG1 {
+	margin-left: 15px;
+	font-style: italic;
+	margin-top: 1px;
+	margin-bottom: 0px;
+}
+
+#H1MindReading {
+	text-align: center;
+	margin-top: 1px;
+	margin-bottom: 0px;
+}
+
+#TriFlyH3 {
+	text-align: center;
+	font-size: 37;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+#H1H {
+	margin-left: 1px;
+	font-size: 51px;
+	margin-top: 1px;
+	margin-bottom: 0px;
+
+}
+
+#p20 {
+	margin-top: 1px;
+	margin-bottom: 0px;
+
+}
+
+#TriFlyH4 {
+	
+	text-align: center;
+	font-size: 45px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#H1E {
+	font-size: x-large;
+	color: palevioletred;
+	text-align: center;
+	font-style: italic;
+	margin-top: 0px;
+	margin-bottom: 1px;
+}
+
+#p16 {
+	margin-top: 0px;
+	text-align: right;
+	margin-right: 65px;
+}
+#span{
+display: block;
+text-indent: 8px;
+font-family: italic;
+}
